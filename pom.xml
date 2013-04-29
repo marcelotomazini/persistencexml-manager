@@ -9,6 +9,22 @@
 		<java.version>1.6</java.version>
 	</properties>
 
+	<name>PersistenceXml Manager</name>
+	<description>Find and add entities to persistence.xml</description>
+	<url>http://persistencexmlmanager.mttechsolutions.net</url>
+
+	<licenses>
+		<license>
+			<name>GPL</name>
+			<url>https://raw.github.com/marcelotomazini/persistencexml-manager/master/GPL.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<scm>
+		<url>https://github.com/marcelotomazini/persistencexml-manager</url>
+	</scm>
+	
 	<build>
 		<plugins>
 			<plugin>
